@@ -14,8 +14,8 @@ body {
   }
   
   .browser-window {
-    width: 1600px;
-    height: 900px;
+    width: 1366px;
+    height: 768px;
     background-color: #fff;
     border: 2px solid #ccc;
     border-radius: 25px;
